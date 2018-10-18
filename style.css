@@ -1,0 +1,22 @@
+/*style*/
+body {
+	color: #414141;
+	background-color: #EEEEEE;
+	font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Helvetica", "Arial", sans-serif;
+}
+
+ul {
+	list-style-type: circle;
+}
+
+ol {
+	list-style-type: lower-alpha;
+}
+
+p, p h1 {
+	text-align: center;
+}
